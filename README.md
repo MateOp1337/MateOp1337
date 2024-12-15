@@ -1,6 +1,6 @@
 ## Hi!
 
-I’m MateOp (or MetoOp, sometimes jokingly "Mysz"). My real name is Mateusz, and I’m from Poland (Polska górą!).
+I’m MateOp (or MetoOp, sometimes jokingly "Mysz"). I’m from Poland (Polska górą!).
 
 I’m a beginner full-stack developer coding mainly in Python, HTML, and JS (including Node.js). Right now, I’m focused on my biggest project, **Imperator** – a bot for my server *Imperium* ("Empire"). I’m also working on **XMLCord** and have plans to release **DataStore**, a tool for secure, encrypted data storage using PBKDF2HMAC.
 
