@@ -7,5 +7,8 @@ I’m a beginner full-stack developer coding mainly in Python, HTML, and JS (inc
 I’m diving into **TypeScript**, **SCSS**, **React**, and databases to enhance my skills. I prefer using **JSON5** and **YML** in newer projects, though JSON sneaks in sometimes. I’m passionate about security, stability, and writing clean, readable code – always sticking to PEP8 standards.  
 
 ## Support Me  
-
 If you’d like to support my main project (**Imperium**) and help me achieve one of my dreams – building a large, active Discord community – feel free to join my server: [Imperium Discord](https://discord.gg/7DFXSvcETu).
+
+
+## Check out my tutorials!  
+If you need some help, feel free to try using my [tutorials](https://github.com/MateOp1337/MateOp1337/tutorials).
