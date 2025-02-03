@@ -10,4 +10,4 @@ I’m diving into **TypeScript**, **SCSS**, **React**, and databases to enhance 
 If you’d like to support my main project (**Imperium**) and help me achieve one of my dreams – building a large, active Discord community – feel free to join my server: [Imperium Discord](https://discord.gg/7DFXSvcETu).
 
 ## Check out my tutorials!  
-If you need some help, feel free to try using my [tutorials](https://github.com/MateOp1337/MateOp1337/tutorials).
+If you need some help, feel free to try using my [tutorials](https://github.com/MateOp1337/MateOp1337/tree/main/tutorials).
