@@ -11,3 +11,8 @@ If you’d like to support my main project (**Imperium**) and help me achieve on
 
 ## Check out my tutorials!  
 If you need some help, feel free to try using my [tutorials](https://github.com/MateOp1337/MateOp1337/tree/main/tutorials).
+
+## Currently working on:  
+- **Binder**: Binder is an open-source alternative to "Stream Deck®." It's a simple Python script that allows you to connect from another device (e.g., your tablet or phone) and control your PC. Currently, Binder supports features like hotkeys, (not very advanced yet) music control, and opening apps (currently works on Windows, Linux, and macOS). I'm working on adding more features, such as widgets (which will allow you to monitor device data like CPU/GPU usage or free disk space in real-time), light control (currently limited to YeeLight), and OBS management via OBS WebSocket.  
+- **PyYeeLight**: A simple open-source Python library that allows you to control your YeeLight devices (smart bulbs, LED strips, etc.) using LAN Control.  
+- **PyOBSWS**: A simple open-source Python library that allows you to control OBS via OBS WebSocket.  
